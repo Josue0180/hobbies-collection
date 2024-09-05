@@ -20,7 +20,7 @@
                 "--port", "5001"
             ],
             "jinja": true,
-            "autoStartBrowser": true
+            "autoStartBrowser": true 
         }
     ]
 }
